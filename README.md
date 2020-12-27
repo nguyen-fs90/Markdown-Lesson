@@ -87,3 +87,29 @@ Kết quả:
 
 - [ ] Task 1
 - [x] Task 2
+
+### Blockquotes
+
+>Sử dụng ký tự `>` để tạo blockquote
+
+### Horizontal rules
+
+Sử dụng các ký tự sau để tạo horizotal rules
+> `* * *` <br>
+> `***` <br>
+> `*****` <br>
+> `- - -` <br>
+> `---------------------------------------` <br>
+
+Kết quả:
+***
+
+### Links
+
+Cú pháp: <br>
+`[link text](url)`
+`![img text](img url)`
+
+[Google](https://google.com.vn) <br>
+[YouTube](https://youtube.com) <br>
+![Deno logo](https://deno.land/logo.svg)
