@@ -1,4 +1,4 @@
-# Ký pháp Markdown
+# <font color="blue">Ký pháp Markdown</font>
 
 ## Code
 
