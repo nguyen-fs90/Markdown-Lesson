@@ -1,4 +1,4 @@
-# <font color="blue">Ký pháp Markdown</font>
+# Ký pháp Markdown
 
 ## Code
 
@@ -111,5 +111,4 @@ Cú pháp: <br>
 `![img text](img url)`
 
 [Google](https://google.com.vn) <br>
-[YouTube](https://youtube.com) <br>
-![Deno logo](https://deno.land/logo.svg)
+![](https://www.google.co.jp/logos/doodles/2020/december-holidays-days-2-30-6753651837108830.3-law.gif)
